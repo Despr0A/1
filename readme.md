@@ -2,8 +2,6 @@
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
-([GLaDOS][glados] 可用邀请码: `MW4DK-O0RSF-C7AOU-EN1MP`, 双方都有奖励天数)
-
 ## 使用说明
 
 1. Fork 这个仓库
@@ -26,7 +24,6 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
     1. Console: 格式 `console:log`, 作为日志输出, 一般用于调试
     1. 如需配置多个, 可以写为多行, 每行写一个
 
-1. 注意: Cookie 以及接口输出数据, 包含帐号敏感信息, 因此不要随意公开
 
 ---
 
